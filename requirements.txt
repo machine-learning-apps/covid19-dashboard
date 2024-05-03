@@ -115,7 +115,7 @@ Theano==1.0.4
 toml==0.10.0
 toolz==0.10.0
 tornado==6.0.4
-tqdm==4.43.0
+tqdm==4.66.3
 traitlets==4.3.3
 typed-ast==1.4.1
 typing-extensions==3.7.4.2
